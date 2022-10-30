@@ -3,6 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+"predeploy": "npm run build",
+   "deploy": "gh-pages -d build",
+  "homepage": "https://Aryanpatel1657.github.io/textutils",
 
 In the project directory, you can run:
 
